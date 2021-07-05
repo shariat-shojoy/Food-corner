@@ -54,4 +54,39 @@ p{
     text-align: center;
     margin-top: 50px;
 }
+.tips{
+    display: flex;
+}
+.box{
+    box-shadow: 10px 10px 40px grey;
+    margin-left: 5%;
+    width: 40%;
+    padding: 2%;
+    margin-top: 5%;
+    border-radius: 10px;
 
+}
+.recipies{
+    width: 30%;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 30px grey;
+    padding: 5px;
+    border-radius: 15px;
+}
+.recipies img{
+    width: 87%;
+    border-radius: 15px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.bold{
+    font-weight: 900;
+    margin-left: 20px;
+    color: rgb(94, 93, 93) ;
+}
+.font-color{
+    margin-left: 20px;
+    color: black;
+}
