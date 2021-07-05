@@ -1,8 +1,12 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 .display{
     display: flex;
+    background-image: url(Frame\ 56.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 .width{
     width: 45%;
@@ -12,7 +16,7 @@ body{
     
 }
 .width img{
-    width: 95%;
+    width: 100%;
 }
 .font-size{
     font-size: 50px;
