@@ -80,17 +80,72 @@ p{
     border-radius: 15px;
 }
 .recipies img{
-    width: 87%;
+    width: 93%;
     border-radius: 15px;
-    margin-left: 20px;
-    margin-top: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    
 }
 .bold{
     font-weight: 900;
-    margin-left: 20px;
     color: rgb(94, 93, 93) ;
+    margin-left: 10px;
+
 }
 .font-color{
-    margin-left: 20px;
+    margin-left: 10px;
     color: black;
+}
+.top-product{
+    display: flex;
+    width: 80%;
+    margin-top: 150px;
+    padding: 5%;
+    box-shadow: 10px 10px 30px gray;
+    margin: 5%;
+    background-image: linear-gradient(blue, cyan);
+    border-radius: 10px;
+
+}
+.top-product img{
+    border-radius: 10px;
+    width: 70%;
+    margin-left: 50px;
+    height: 110%;
+}
+.top-product p{
+    color: black;
+}
+.order{
+    text-decoration: none;
+    background-image: linear-gradient(salmon,orange);
+    color: black;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+.media-box{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 15px;
+}
+.box-width{
+    width: 33%;
+    margin-left:10%;
+    margin-left: 10%;
+
+}
+.box-width h1{
+    font-weight: 900;
+    font-size: 40px;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    padding: 30px;
+    margin-top: 70px;
+}
+.footer h2{
+    color: gray;
 }
